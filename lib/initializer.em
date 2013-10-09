@@ -1,6 +1,6 @@
 Em.onLoad 'Ember.Application', (application) ->
   application.initializer
-    name: 'ember-auth-strategy-token'
+    name: 'ember-auth.strategy.token'
     after: 'ember-auth'
 
     initialize: (container, app) ->
