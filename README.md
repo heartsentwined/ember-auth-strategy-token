@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/heartsentwined/ember-auth-strategy-token.png)](http://travis-ci.org/heartsentwined/ember-auth-strategy-token)
 [![Gem Version](https://badge.fury.io/rb/ember-auth-strategy-token-source.png)](http://badge.fury.io/rb/ember-auth-strategy-token-source)
-[![NPM version](https://badge.fury.io/js/ember-auth.png)](http://badge.fury.io/js/ember-auth-strategy-token)
+[![NPM version](https://badge.fury.io/js/ember-auth-strategy-token.png)](http://badge.fury.io/js/ember-auth-strategy-token)
 
 Token authentication for ember-auth.
 
