@@ -1,5 +1,7 @@
 # token strategy adapter for ember-auth
 
+[![Build Status](https://secure.travis-ci.org/heartsentwined/ember-auth-strategy-token.png)](http://travis-ci.org/heartsentwined/ember-auth-strategy-token)
+
 Token authentication for ember-auth.
 
 ## Config
