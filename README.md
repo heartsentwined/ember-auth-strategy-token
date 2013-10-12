@@ -41,5 +41,5 @@ App.Auth = Em.Auth.reopen
 ## Usage
 
 ```coffeescript
-@auth.authToken # access the auth token
+@auth.get 'authToken' # access the auth token
 ```
