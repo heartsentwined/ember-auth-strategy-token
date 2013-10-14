@@ -43,3 +43,8 @@ App.Auth = Em.Auth.reopen
 ```coffeescript
 @auth.get 'authToken' # access the auth token
 ```
+
+License
+=======
+
+MIT
